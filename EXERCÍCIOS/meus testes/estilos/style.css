@@ -21,6 +21,12 @@ header{
     background-color: #c98b71;
     padding-top: 10px;
     position: fixed;
-    margin-bottom: 30px;
+    margin: 5px;
+}
 
+header#foto > nav{
+    display: inline-block;
+}
+div#foto img{
+    max-width: 100%;
 }
