@@ -15,16 +15,15 @@ html{
     font-size: 62,5%;;
 }
 header{
-    width: 100vw;
-    height: 90px;
+    width: 100%;
+    height: 50px;
+    background-color: rgba(124, 124, 223, 0.582);
     display: block;
-    background-color: #c98b71;
-    padding-top: 10px;
-    position: fixed;
-    margin: 5px;
 }
+nav{
 
-header > div > img{
-    margin-top: 50px;
 }
-
+#foto{
+    width: 20px;
+    height: 20px;
+}
